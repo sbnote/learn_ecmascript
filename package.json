@@ -1,0 +1,23 @@
+{
+  "name": "learn_ecmascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbnote/learn_ecmascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbnote/learn_ecmascript/issues"
+  },
+  "homepage": "https://github.com/sbnote/learn_ecmascript#readme",
+  "dependencies": {
+    "assert": "^2.0.0"
+  }
+}
